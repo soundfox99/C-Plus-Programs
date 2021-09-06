@@ -1,0 +1,8 @@
+RTX_3080 699
+Play_Station 499
+"Heidi" 14.99
+iPad_Pro 999
+Kindle_Oasis 199
+Ryzen 199
+dog 100
+Galaxy 99999

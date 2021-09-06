@@ -1,0 +1,14 @@
+Crime_and_Punishment 	19.99
+IPhone12		799
+PS5			499
+RTX_3090		1499
+XPS_17			1899.99
+Sony_WH-1000XM4		348.00
+Kindle_Oasis		279.99
+Legend_of_Zelda:BOTW	44.99
+A_jar_of_bathwater	30
+Logitech_G900		59.99
+Salmon_sashimi		20.00
+Soon_doo_boo		13
+Jelly_fish_in_vinegar	4.95
+Clam_chowder		4.75
